@@ -1,7 +1,7 @@
 <?php
     $me = $_POST['name'];
     $pass = $_POST['pass'];
-    $wel = "<h1>ようこそ</h1>"
+    $wel = "<h1>ありがとうございました。</h1>"
 ?>
 
 <!DOCTYPE html>
